@@ -29,5 +29,3 @@ fs.createReadStream('kepler_data.csv')
     }))
     console.log(`The total number of planets that are habitable is ${results.length}!`);
   });
-
-// parse();
